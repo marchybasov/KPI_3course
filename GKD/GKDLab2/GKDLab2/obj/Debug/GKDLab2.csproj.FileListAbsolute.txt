@@ -1,0 +1,30 @@
+C:\Users\Maksym Archybasov\source\repos\GKDLab2\GKDLab2\bin\Debug\GKDLab2.exe.config
+C:\Users\Maksym Archybasov\source\repos\GKDLab2\GKDLab2\bin\Debug\GKDLab2.exe
+C:\Users\Maksym Archybasov\source\repos\GKDLab2\GKDLab2\bin\Debug\GKDLab2.pdb
+C:\Users\Maksym Archybasov\source\repos\GKDLab2\GKDLab2\obj\Debug\GKDLab2.csprojAssemblyReference.cache
+C:\Users\Maksym Archybasov\source\repos\GKDLab2\GKDLab2\obj\Debug\GKDLab2.Form1.resources
+C:\Users\Maksym Archybasov\source\repos\GKDLab2\GKDLab2\obj\Debug\GKDLab2.Properties.Resources.resources
+C:\Users\Maksym Archybasov\source\repos\GKDLab2\GKDLab2\obj\Debug\GKDLab2.csproj.GenerateResource.cache
+C:\Users\Maksym Archybasov\source\repos\GKDLab2\GKDLab2\obj\Debug\GKDLab2.csproj.CoreCompileInputs.cache
+C:\Users\Maksym Archybasov\source\repos\GKDLab2\GKDLab2\obj\Debug\GKDLab2.exe
+C:\Users\Maksym Archybasov\source\repos\GKDLab2\GKDLab2\obj\Debug\GKDLab2.pdb
+F:\GKDLab2\GKDLab2\bin\Debug\GKDLab2.exe.config
+F:\GKDLab2\GKDLab2\bin\Debug\GKDLab2.exe
+F:\GKDLab2\GKDLab2\bin\Debug\GKDLab2.pdb
+F:\GKDLab2\GKDLab2\obj\Debug\GKDLab2.csprojAssemblyReference.cache
+F:\GKDLab2\GKDLab2\obj\Debug\GKDLab2.Form1.resources
+F:\GKDLab2\GKDLab2\obj\Debug\GKDLab2.Properties.Resources.resources
+F:\GKDLab2\GKDLab2\obj\Debug\GKDLab2.csproj.GenerateResource.cache
+F:\GKDLab2\GKDLab2\obj\Debug\GKDLab2.csproj.CoreCompileInputs.cache
+F:\GKDLab2\GKDLab2\obj\Debug\GKDLab2.exe
+F:\GKDLab2\GKDLab2\obj\Debug\GKDLab2.pdb
+C:\Users\homePC\Desktop\GKDLab2\GKDLab2\bin\Debug\GKDLab2.exe.config
+C:\Users\homePC\Desktop\GKDLab2\GKDLab2\bin\Debug\GKDLab2.exe
+C:\Users\homePC\Desktop\GKDLab2\GKDLab2\bin\Debug\GKDLab2.pdb
+C:\Users\homePC\Desktop\GKDLab2\GKDLab2\obj\Debug\GKDLab2.csprojAssemblyReference.cache
+C:\Users\homePC\Desktop\GKDLab2\GKDLab2\obj\Debug\GKDLab2.Form1.resources
+C:\Users\homePC\Desktop\GKDLab2\GKDLab2\obj\Debug\GKDLab2.Properties.Resources.resources
+C:\Users\homePC\Desktop\GKDLab2\GKDLab2\obj\Debug\GKDLab2.csproj.GenerateResource.cache
+C:\Users\homePC\Desktop\GKDLab2\GKDLab2\obj\Debug\GKDLab2.csproj.CoreCompileInputs.cache
+C:\Users\homePC\Desktop\GKDLab2\GKDLab2\obj\Debug\GKDLab2.exe
+C:\Users\homePC\Desktop\GKDLab2\GKDLab2\obj\Debug\GKDLab2.pdb

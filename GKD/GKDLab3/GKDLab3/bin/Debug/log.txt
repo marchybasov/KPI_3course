@@ -1,0 +1,25 @@
+5/11/2020 23:2:8 - New file "Archybasov1.txt" with an original text was created
+
+5/11/2020 23:2:8 -New file "Archybasov2.txt" with a keyword was created
+5/11/2020 23:2:8 -File "Archybasov3.txt" was encrypted
+5/11/2020 23:2:8 - File "Archybasov2.txt" was found
+
+
+
+11/05/2020 11:10:37 - New file "Archybasov1.txt" with an original text was created
+
+
+11/05/2020 11:11:36 - New file "Archybasov1.txt" with an original text was created
+
+
+11/05/2020 11:13:00 - File "" was found
+
+11/05/2020 11:15:48 - File "" with keyword was found
+11/05/2020 11:15:48 - File "" with keyword was found
+
+11/05/2020 11:17:48 - File "" with keyword was found
+
+
+
+
+

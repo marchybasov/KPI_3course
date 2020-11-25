@@ -1,0 +1,7 @@
+E:\study\3 семестр\Груповая коммуникация\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\study\3 семестр\Груповая коммуникация\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\study\3 семестр\Груповая коммуникация\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\study\3 семестр\Груповая коммуникация\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+E:\study\3 семестр\Груповая коммуникация\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\study\3 семестр\Груповая коммуникация\Lab1\Lab1\obj\Debug\Lab1.exe
+E:\study\3 семестр\Груповая коммуникация\Lab1\Lab1\obj\Debug\Lab1.pdb
