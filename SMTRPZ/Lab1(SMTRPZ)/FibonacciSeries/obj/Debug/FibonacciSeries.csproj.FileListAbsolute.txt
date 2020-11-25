@@ -1,0 +1,6 @@
+E:\study\3 семестр\СМТРПЗ\Examples1\FibonacciSeries\bin\Debug\FibonacciSeries.exe.config
+E:\study\3 семестр\СМТРПЗ\Examples1\FibonacciSeries\bin\Debug\FibonacciSeries.exe
+E:\study\3 семестр\СМТРПЗ\Examples1\FibonacciSeries\bin\Debug\FibonacciSeries.pdb
+E:\study\3 семестр\СМТРПЗ\Examples1\FibonacciSeries\obj\Debug\FibonacciSeries.csproj.CoreCompileInputs.cache
+E:\study\3 семестр\СМТРПЗ\Examples1\FibonacciSeries\obj\Debug\FibonacciSeries.exe
+E:\study\3 семестр\СМТРПЗ\Examples1\FibonacciSeries\obj\Debug\FibonacciSeries.pdb

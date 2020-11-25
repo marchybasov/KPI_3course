@@ -1,0 +1,7 @@
+E:\study\3 семестр\СМТРПЗ\Examples1\E1_EnterDigit\bin\Debug\E1_EnterDigit.exe.config
+E:\study\3 семестр\СМТРПЗ\Examples1\E1_EnterDigit\bin\Debug\E1_EnterDigit.exe
+E:\study\3 семестр\СМТРПЗ\Examples1\E1_EnterDigit\bin\Debug\E1_EnterDigit.pdb
+E:\study\3 семестр\СМТРПЗ\Examples1\E1_EnterDigit\obj\Debug\E1_EnterDigit.csprojAssemblyReference.cache
+E:\study\3 семестр\СМТРПЗ\Examples1\E1_EnterDigit\obj\Debug\E1_EnterDigit.csproj.CoreCompileInputs.cache
+E:\study\3 семестр\СМТРПЗ\Examples1\E1_EnterDigit\obj\Debug\E1_EnterDigit.exe
+E:\study\3 семестр\СМТРПЗ\Examples1\E1_EnterDigit\obj\Debug\E1_EnterDigit.pdb

@@ -1,0 +1,7 @@
+E:\study\3 семестр\СМТРПЗ\Examples1\HelloUser\bin\Debug\HelloUser.exe.config
+E:\study\3 семестр\СМТРПЗ\Examples1\HelloUser\bin\Debug\HelloUser.exe
+E:\study\3 семестр\СМТРПЗ\Examples1\HelloUser\bin\Debug\HelloUser.pdb
+E:\study\3 семестр\СМТРПЗ\Examples1\HelloUser\obj\Debug\HelloUser.csprojAssemblyReference.cache
+E:\study\3 семестр\СМТРПЗ\Examples1\HelloUser\obj\Debug\HelloUser.csproj.CoreCompileInputs.cache
+E:\study\3 семестр\СМТРПЗ\Examples1\HelloUser\obj\Debug\HelloUser.exe
+E:\study\3 семестр\СМТРПЗ\Examples1\HelloUser\obj\Debug\HelloUser.pdb

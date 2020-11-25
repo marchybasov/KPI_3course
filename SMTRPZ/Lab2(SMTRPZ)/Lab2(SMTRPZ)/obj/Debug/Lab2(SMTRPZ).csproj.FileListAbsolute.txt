@@ -1,0 +1,7 @@
+E:\study\3 семестр\СМТРПЗ\Lab2(SMTRPZ)\Lab2(SMTRPZ)\bin\Debug\Lab2(SMTRPZ).exe.config
+E:\study\3 семестр\СМТРПЗ\Lab2(SMTRPZ)\Lab2(SMTRPZ)\bin\Debug\Lab2(SMTRPZ).exe
+E:\study\3 семестр\СМТРПЗ\Lab2(SMTRPZ)\Lab2(SMTRPZ)\bin\Debug\Lab2(SMTRPZ).pdb
+E:\study\3 семестр\СМТРПЗ\Lab2(SMTRPZ)\Lab2(SMTRPZ)\obj\Debug\Lab2(SMTRPZ).csprojAssemblyReference.cache
+E:\study\3 семестр\СМТРПЗ\Lab2(SMTRPZ)\Lab2(SMTRPZ)\obj\Debug\Lab2(SMTRPZ).csproj.CoreCompileInputs.cache
+E:\study\3 семестр\СМТРПЗ\Lab2(SMTRPZ)\Lab2(SMTRPZ)\obj\Debug\Lab2(SMTRPZ).exe
+E:\study\3 семестр\СМТРПЗ\Lab2(SMTRPZ)\Lab2(SMTRPZ)\obj\Debug\Lab2(SMTRPZ).pdb
