@@ -1,0 +1,7 @@
+E:\GIT\KPI_3course\SMTRPZ\Lab2(SMTRPZ)\CramersRule\bin\Debug\CramersRule.exe.config
+E:\GIT\KPI_3course\SMTRPZ\Lab2(SMTRPZ)\CramersRule\bin\Debug\CramersRule.exe
+E:\GIT\KPI_3course\SMTRPZ\Lab2(SMTRPZ)\CramersRule\bin\Debug\CramersRule.pdb
+E:\GIT\KPI_3course\SMTRPZ\Lab2(SMTRPZ)\CramersRule\obj\Debug\CramersRule.csprojAssemblyReference.cache
+E:\GIT\KPI_3course\SMTRPZ\Lab2(SMTRPZ)\CramersRule\obj\Debug\CramersRule.csproj.CoreCompileInputs.cache
+E:\GIT\KPI_3course\SMTRPZ\Lab2(SMTRPZ)\CramersRule\obj\Debug\CramersRule.exe
+E:\GIT\KPI_3course\SMTRPZ\Lab2(SMTRPZ)\CramersRule\obj\Debug\CramersRule.pdb
