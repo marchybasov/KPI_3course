@@ -1,0 +1,7 @@
+E:\GIT\KPI_3course\SMTRPZ\Lab2(SMTRPZ)\Lab2(SMTRPZ)\bin\Debug\Lab2(SMTRPZ).exe.config
+E:\GIT\KPI_3course\SMTRPZ\Lab2(SMTRPZ)\Lab2(SMTRPZ)\bin\Debug\Lab2(SMTRPZ).exe
+E:\GIT\KPI_3course\SMTRPZ\Lab2(SMTRPZ)\Lab2(SMTRPZ)\bin\Debug\Lab2(SMTRPZ).pdb
+E:\GIT\KPI_3course\SMTRPZ\Lab2(SMTRPZ)\Lab2(SMTRPZ)\obj\Debug\Array.csprojAssemblyReference.cache
+E:\GIT\KPI_3course\SMTRPZ\Lab2(SMTRPZ)\Lab2(SMTRPZ)\obj\Debug\Array.csproj.CoreCompileInputs.cache
+E:\GIT\KPI_3course\SMTRPZ\Lab2(SMTRPZ)\Lab2(SMTRPZ)\obj\Debug\Lab2(SMTRPZ).exe
+E:\GIT\KPI_3course\SMTRPZ\Lab2(SMTRPZ)\Lab2(SMTRPZ)\obj\Debug\Lab2(SMTRPZ).pdb

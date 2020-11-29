@@ -42,7 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ArrayWorker.cs" />
+    <Compile Include="ArrayCreator.cs" />
+    <Compile Include="ArrayMath.cs" />
+    <Compile Include="ArrayOrderer.cs" />
+    <Compile Include="ArrayPrinter.cs" />
+    <Compile Include="IArrayPrinter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

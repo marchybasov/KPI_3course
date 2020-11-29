@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2(SMTRPZ)", "Lab2(SMTRPZ)\Lab2(SMTRPZ).csproj", "{AB95CFDB-3A58-4D92-B414-BEEDA5AE1972}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Lab2(SMTRPZ)\Array.csproj", "{AB95CFDB-3A58-4D92-B414-BEEDA5AE1972}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CramersRule", "CramersRule\CramersRule.csproj", "{84274699-D4B0-4EF2-8CFB-8D52550E1C0D}"
 EndProject
