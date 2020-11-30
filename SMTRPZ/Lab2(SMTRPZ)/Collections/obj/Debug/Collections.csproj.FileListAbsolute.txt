@@ -1,0 +1,7 @@
+E:\GIT\KPI_3course\SMTRPZ\Lab2(SMTRPZ)\Collections\bin\Debug\Collections.exe.config
+E:\GIT\KPI_3course\SMTRPZ\Lab2(SMTRPZ)\Collections\bin\Debug\Collections.exe
+E:\GIT\KPI_3course\SMTRPZ\Lab2(SMTRPZ)\Collections\bin\Debug\Collections.pdb
+E:\GIT\KPI_3course\SMTRPZ\Lab2(SMTRPZ)\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+E:\GIT\KPI_3course\SMTRPZ\Lab2(SMTRPZ)\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+E:\GIT\KPI_3course\SMTRPZ\Lab2(SMTRPZ)\Collections\obj\Debug\Collections.exe
+E:\GIT\KPI_3course\SMTRPZ\Lab2(SMTRPZ)\Collections\obj\Debug\Collections.pdb
