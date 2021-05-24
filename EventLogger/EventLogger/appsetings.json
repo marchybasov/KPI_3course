@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DBConnection": "data source=myserver\\MSSQL16;Initial Catalog=EventLogger;user id=sa;password=Ghjcnj123;Integrated Security=False "
+  }
+}
